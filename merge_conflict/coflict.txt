@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "change from main branch" 
+=======
+"changes from feature branch"
+>>>>>>> featurebranch
